@@ -1,0 +1,11 @@
+dom(document object model)
+-----------------------------------
+to access dom elements we use dom methods
+dom methods
+-------------------
+- document.getElementsByTagName("tagname")
+- document.getElementsByClassName("classname")
+- document.getElementById("id")
+- document.querySelector("tagname/.classname/#id")- we will get only on elements
+to get all elements we use
+- document.querySelectorAll("tagname/.classname/#id")
